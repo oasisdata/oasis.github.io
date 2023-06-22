@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2e03171.css",
+    "main.js": "/static/js/main.f3564604.js",
+    "static/media/award.svg": "/static/media/award.dc9ab3c5f6d5ebcd73359bfe7cab56ab.svg",
+    "static/media/training.svg": "/static/media/training.03ff99969e807c1351566b6dc2b5fad0.svg",
+    "static/media/dashboard.svg": "/static/media/dashboard.1bfd58aab4f1be4804e1e8435712c271.svg",
+    "static/media/grit.svg": "/static/media/grit.bccd45e93ba8bc0050cdbd847f694907.svg",
+    "static/media/project.svg": "/static/media/project.1e690d1c75065be9b295b935596ae32d.svg",
+    "static/media/database.svg": "/static/media/database.4ca41eb733410168f5bfbb7b3a9affa0.svg",
+    "static/media/experience.svg": "/static/media/experience.c9c0b36db81e2a609a2777b04aff2694.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.b3c40268f6d7075cbd0d80cee1f2d4ba.svg",
+    "static/media/phone.svg": "/static/media/phone.89cf52143ceaf3558ab614bfdb91ebf4.svg",
+    "static/media/email.svg": "/static/media/email.0de4e96bf34b7086d8081851a18ae480.svg",
+    "index.html": "/index.html",
+    "main.d2e03171.css.map": "/static/css/main.d2e03171.css.map",
+    "main.f3564604.js.map": "/static/js/main.f3564604.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2e03171.css",
+    "static/js/main.f3564604.js"
+  ]
+}
